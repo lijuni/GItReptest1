@@ -1,3 +1,4 @@
 This is the First line in Git
 This is the Second line in Git
 This is the 6th Change.
+This is the 7th Change.
